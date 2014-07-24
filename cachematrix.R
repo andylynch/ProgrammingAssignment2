@@ -2,9 +2,11 @@
 ## functions do
 
 ## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
-
+  # Construct and return a cachable matrix object
+  #
+  # Args: 
+  #   x A matrix instance to cache
 }
 
 
